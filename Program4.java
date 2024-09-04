@@ -8,10 +8,10 @@ import java.util.Scanner; //This imports the console scanner that reads user inp
             Scanner myObj = new Scanner(System.in);
             
             // Create my variables
-            double num1 = 0;
-            double num2 = 0;
-            double num3 = 0;
-            double num4 = 0;
+            int num1 = 0;
+            int num2 = 0;
+            int num3 = 0;
+            int num4 = 0;
             double num5 = 0;
             
             //Ask for user input:
